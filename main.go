@@ -1,5 +1,6 @@
-package main
-import "fmt"
-func main() {
-    fmt.Println("hello world")
-}
+package codedamn
+
+// create your function here
+
+
+//  you can add a main() function for testing your code. Make sure to comment out the main() function before running tests
